@@ -1,4 +1,4 @@
-# codeChallange
+# Code Challange
 
 ## Steps to setup and test
 
