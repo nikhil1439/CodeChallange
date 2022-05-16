@@ -1,6 +1,6 @@
 # codeChallange
 
-##Steps to setup and test
+## Steps to setup and test
 
 - Clone ths code from repo and use `cd code` and `npm install` in the root folder
 - Next `cd..` and navigate to frontend  and backend folder and use `npm install` in both folders to install dependencies
